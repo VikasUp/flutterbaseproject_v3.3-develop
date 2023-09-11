@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Israel",
+      "countryCode": "+972"
+    },
+    {
+      "id": 2,
+      "name": "Afghanistan",
+      "countryCode": "+93"
+    },
+    {
+      "id": 3,
+      "name": "Albania",
+      "countryCode": "+355"
+    },
+    {
+      "id": 4,
+      "name": "Algeria",
+      "countryCode": "+213"
+    },
+    {
+      "id": 5,
+      "name": "AmericanSamoa",
+      "countryCode": "+1 684"
+    }
+]

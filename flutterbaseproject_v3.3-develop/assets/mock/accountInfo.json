@@ -1,0 +1,16 @@
+{
+  "activationKey": "string",
+  "authorities": [
+    "string"
+  ],
+  "email": "string",
+  "firstName": "string",
+  "id": 0,
+  "imageUrl": "string",
+  "lastName": "string",
+  "phoneNumber": 0,
+  "resetDate": "2020-01-27T11:58:53.014Z",
+  "resetKey": "string",
+  "status": true,
+  "userName": "string"
+}

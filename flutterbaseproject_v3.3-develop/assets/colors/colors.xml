@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E65100</color>
+    <color name="primary_swatch" type="material">#E65100</color>
+    <color name="input_text_background">#F2F2F2</color>
+</resources>

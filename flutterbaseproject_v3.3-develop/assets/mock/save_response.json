@@ -1,0 +1,188 @@
+[
+    {
+        "id": 7,
+        "name": "EASTERN SOUTHEAST",
+        "teams": [
+            {
+                "id": 31,
+                "name": "Atlanta Hawks",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/ATL_logo.png"
+            },
+            {
+                "id": 32,
+                "name": "Charlotte Hornets",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Charlotte%20Hornets.png"
+            },
+            {
+                "id": 33,
+                "name": "Miami Heat",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Miami%20Heat.png"
+            },
+            {
+                "id": 34,
+                "name": "Orlando Magic",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Orlando%20Magic.png"
+            },
+            {
+                "id": 35,
+                "name": "Washington Wizards",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Washington%20Wizards.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "EASTERN ATLANTIC",
+        "teams": [
+            {
+                "id": 36,
+                "name": "Boston Celtics",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Boston%20Celtics.png"
+            },
+            {
+                "id": 37,
+                "name": "Brooklyn Nets",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Brooklyn%20NetsBrooklyn%20Nets.png"
+            },
+            {
+                "id": 38,
+                "name": "New York Knicks",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/New%20York%20Knicks.png"
+            },
+            {
+                "id": 39,
+                "name": "Philadelphia 76ERS",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Philadelphia%2076ERS.png"
+            },
+            {
+                "id": 40,
+                "name": "Toronto Raptors",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Toronto%20Raptors.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "EASTERN CENTRAL",
+        "teams": [
+            {
+                "id": 41,
+                "name": "Chicago Bulls",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Chicago%20Bulls.png"
+            },
+            {
+                "id": 42,
+                "name": "Cleveland Cavaliers",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Cleveland%20Cavaliers.png"
+            },
+            {
+                "id": 43,
+                "name": "Detroit Pistons",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Detroit%20Pistons.png"
+            },
+            {
+                "id": 44,
+                "name": "Indiana Pacers",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Indiana%20Pacers.png"
+            },
+            {
+                "id": 45,
+                "name": "Milwaukee Bucks",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Milwaukee%20Bucks.png"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "WESTERN SOUTHWEST",
+        "teams": [
+            {
+                "id": 46,
+                "name": "Dallas Mavericks",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Dallas%20Mavericks.png"
+            },
+            {
+                "id": 47,
+                "name": "Houston Rockets",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Houston%20Rockets.png"
+            },
+            {
+                "id": 48,
+                "name": "Memphis Grizzlies",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Memphis%20Grizzlies.png"
+            },
+            {
+                "id": 49,
+                "name": "New Orleans Pelicans",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/New%20Orleans%20Pelicans.png"
+            },
+            {
+                "id": 50,
+                "name": "San Antonio Spurs",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/San%20Antonio%20Spurs.png"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "WESTERN NORTHWEST",
+        "teams": [
+            {
+                "id": 51,
+                "name": "Denver Nuggets",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Denver%20Nuggets.png"
+            },
+            {
+                "id": 52,
+                "name": "Minnesota Timberwolves",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Minnesota%20Timberwolves.png"
+            },
+            {
+                "id": 53,
+                "name": "Oklahoma City Thunder",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Oklahoma%20City%20Thunder.png"
+            },
+            {
+                "id": 54,
+                "name": "Portland Trail Blazers",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Portland%20Trail%20Blazers.png"
+            },
+            {
+                "id": 55,
+                "name": "Utah Jazz",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Utah%20Jazz.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "WESTERN PACIFIC",
+        "teams": [
+            {
+                "id": 56,
+                "name": "Golden State Warriors",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Golden%20State%20Warriors.png"
+            },
+            {
+                "id": 57,
+                "name": "LA Clippers",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/LA%20Clippers.png"
+            },
+            {
+                "id": 58,
+                "name": "Los Angeles Lakers",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Los%20Angeles%20Lakers.png"
+            },
+            {
+                "id": 59,
+                "name": "Phoenix Suns",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Phoenix%20Suns.png"
+            },
+            {
+                "id": 60,
+                "name": "Sacramento Kings",
+                "imageUrl": "https://breakersparadise-dev.s3.us-east-2.amazonaws.com/breakersparadise-dev/Sport-Team%20Logos/Basketball/Sacramento%20Kings.png"
+            }
+        ]
+    }
+]

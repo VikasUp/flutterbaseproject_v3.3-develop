@@ -1,0 +1,32 @@
+[
+    {
+        "id": 7,
+        "name": "EASTERN SOUTHEAST",
+        "teams": []
+    },
+    {
+        "id": 8,
+        "name": "EASTERN ATLANTIC",
+        "teams": []
+    },
+    {
+        "id": 9,
+        "name": "EASTERN CENTRAL",
+        "teams": []
+    },
+    {
+        "id": 10,
+        "name": "WESTERN SOUTHWEST",
+        "teams": []
+    },
+    {
+        "id": 11,
+        "name": "WESTERN NORTHWEST",
+        "teams": []
+    },
+    {
+        "id": 12,
+        "name": "WESTERN PACIFIC",
+        "teams": []
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "message": "",
+  "httpStatus" : 200,
+  "applicationStatusCode": 1000,
+  "id": 1,
+  "userActive" : false
+}
